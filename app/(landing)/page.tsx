@@ -228,7 +228,7 @@ const Home = () => {
                 href=""
                 target="_blank"
                 title="SDH"
-              >
+              > 
                 <Image
                   width={175}
                   height={175}
